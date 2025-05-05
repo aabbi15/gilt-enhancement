@@ -78,7 +78,7 @@ node_modules/
 
 # Build output
 dist/
-out/
+# out/
 lib/
 
 # Logs
